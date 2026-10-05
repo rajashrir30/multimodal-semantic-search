@@ -1,0 +1,14 @@
+numpy>=1.24
+Pillow>=10.0
+torch>=2.0
+open_clip_torch>=2.24
+faiss-cpu>=1.7.4
+librosa>=0.10
+soundfile>=0.12
+laion-clap>=1.1.7
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+streamlit>=1.32
+requests>=2.31
+pytest>=7.0
